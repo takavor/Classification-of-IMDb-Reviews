@@ -1,0 +1,3 @@
+# Classification-of-IMDb-Reviews
+
+The assignment consisted of implementing the logistic regression and multiclass regression machine learning algorithms from scratch, applying them on two distinct textual benchmark data sets, analyzing their performance, and evaluating against KNN and BERT algorithm. We found that logistic regression and multiclass regression both performed better than their KNN counterparts, but were significantly slower to train. Further, the BERT model we implemented on the 20 news groups dataset significantly outperformed than the other algorithms implemented on the same dataset.
